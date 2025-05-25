@@ -1,0 +1,23 @@
+Fragen DFS
+
+Welchen Zweck hat DFS?
+----------------------
+Stellt Freigaben unterschiedlicher Server unterhalb einer gemeinsamen Freigabe frei. 
+
+Wann würden Sie DFS einsetzen?
+------------------------------
+Wenn man mehrere Freigaben auf mehreren Servern hat.
+Als Backup von Daten.
+
+Was ist ein DFS Namespace?
+--------------------------
+Zugriffspunkt, dem Links oder Freigaben zugeordnet werden.
+
+Was ist die DFS Replication?
+----------------------------
+Daten werden auf mehreren Server verfügbar gemacht.
+
+
+Was ist ein Folder / Folder Target?
+-----------------------------------
+Ein Folder im DFS Baum hat ein oder meherere Folder Targets. Diese entsprechen freigaben auf File Servern

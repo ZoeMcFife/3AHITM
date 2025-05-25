@@ -1,0 +1,65 @@
+Geführte Übungen
+================
+
+1. Inwiefern unterscheidet sich Debian GNU/Linux von Ubuntu? Nennen Sie zwei Aspekte.
+--------------------------------------------------------------------------------------
+Debian GNU/Linux und Ubuntu unterscheiden sich in der Art und Weise, wie sie ihre Pakete verwalten. Debian verwendet das Paketverwaltungssystem APT (Advanced Packaging Tool), während Ubuntu ein eigenes Paketverwaltungssystem namens dpkg verwendet. Ein weiterer Unterschied ist, dass Debian eine Community-basierte Distribution ist, während Ubuntu von Canonical Ltd. unterstützt wird.
+
+2. Welche sind die gängigsten Umgebungen/Plattformen, in denen Linux eingesetzt wird? Nennen Sie drei verschiedene Umgebungen/Plattformen und nennen Sie eine Distribution, die sich für alle eignet.
+-----------------------------------------------------------------------------------------------------
+Die gängigsten Umgebungen/Plattformen, in denen Linux eingesetzt wird, sind Server, Desktop und Embedded-Systeme. Drei verschiedene Umgebungen/Plattformen sind Debian, Fedora und Arch Linux. Eine Distribution, die sich für alle eignet, ist Ubuntu.
+
+3. Sie planen die Installation einer Linux-Distribution in einer neuen Umgebung. Nennen Sie vier Dinge, die Sie bei der Auswahl der Distribution berücksichtigen sollten.
+---------------------------------------------------------------------------------------------------------------------
+Bei der Auswahl einer Linux-Distribution sollten Sie die folgenden vier Dinge berücksichtigen: Ihre technischen Fähigkeiten und Erfahrungen, die Hardware-Anforderungen der Distribution, die Verfügbarkeit von Software und Anwendungen für die Distribution4 und den Support für die Distribution durch die Community oder den Hersteller.
+
+4. Nennen Sie — abgesehen von Smartphones — drei Geräte, auf denen das Android-Betriebssystem läuft.
+-----------------------------------------------------------------------------------------------------
+Abgesehen von Smartphones läuft das Android-Betriebssystem auf Tablets, Smartwatches und Fernsehgeräten.
+
+5. Erklären Sie drei wesentliche Vorteile von Cloud Computing.
+--------------------------------------------------------------
+Die drei wesentlichen Vorteile von Cloud Computing sind Kosteneinsparungen durch reduzierte IT-Betriebskosten, höhere Flexibilität und höhere Sicherheit.
+
+Offene Übungen
+==============
+
+1. Welche Distributionen sind in Bezug auf Kosten und Leistung am besten für ein Unternehmen geeignet, das darauf abzielt, die Lizenzkosten zu senken und gleichzeitig die Leistung auf dem höchsten Niveau zu halten? Erklären Sie, warum.
+--------------------------------------------------------------------------------------------------------------------------
+
+Es gibt viele Linux-Distributionen, die für Unternehmen geeignet sind. Einige der besten Linux-Distributionen für Unternehmen sind:
+
+Red Hat Enterprise Linux (RHEL) ist der Marktführer im Segment der Linux-Distributionen für Unternehmen.
+openSUSE-Kosmos gibt es verschiedene Betriebssysteme, die für Unternehmen optimiert werden und sich durch ihre Benutzerfreundlichkeit und Stabilität auszeichnen.
+Fedora ist eine kostenlose Linux-Distribution, die von der Community entwickelt wird und von Red Hat unterstützt wird.
+IServ ist eine Schulserver-Lösung auf Basis von Debian GNU/Linux.
+Zorin OS ist eine benutzerfreundliche Linux-Distribution, die auf Ubuntu basiert und sich an Windows-Benutzer richtet.
+Es gibt viele andere Distributionen, die auch für Unternehmen geeignet sind. Die Wahl hängt von den spezifischen Anforderungen des Unternehmens ab.
+
+2. Was sind die Hauptvorteile des Raspberry Pi und welche Funktionen kann er in Unternehmen erfüllen?
+-------------------------------------------------------------------------------------------------------
+Der Raspberry Pi ist ein kleiner Computer, der viele Vorteile für Unternehmen bietet. Einige der Hauptvorteile sind:
+
+Kompaktheit: Der Raspberry Pi ist klein und kann leicht transportiert werden.
+Leistung: Der Raspberry Pi bietet eine hervorragende Performance und ein großes Software-Angebot mit vielen frei verfügbaren Beispielen, Anwendungsprogrammen und Online-Bibliotheken1.
+Stromsparend: Der Raspberry Pi verbraucht wenig Strom.
+Preiswert: Der Raspberry Pi ist preiswert und kann für viele verschiedene Anwendungen eingesetzt werden.
+In Unternehmen kann der Raspberry Pi für viele verschiedene Zwecke eingesetzt werden. Einige der Funktionen, die er erfüllen kann, sind:
+
+Datenerfassung: Der Raspberry Pi kann verwendet werden, um Daten zu erfassen und zu speichern.
+Automatisierung: Der Raspberry Pi kann zur Automatisierung von Prozessen verwendet werden.
+Überwachung: Der Raspberry Pi kann zur Überwachung von Systemen und Prozessen verwendet werden.
+
+3. Welche Distributionen bieten Amazon Cloud Services und Google Cloud an? Nennen Sie mindestens drei gemeinsame und zwei verschiedene.
+-----------------------------------------------------------------------------------------------------------------------
+Amazon Cloud Services und Google Cloud bieten verschiedene Distributionen an. Hier sind einige gemeinsame und unterschiedliche Distributionen:
+
+Gemeinsame Distributionen:
+
+Ubuntu
+Debian
+CentOS
+Unterschiedliche Distributionen:
+
+Amazon Cloud Services bietet Amazon Linux und Red Hat Enterprise Linux an.
+Google Cloud bietet Container-optimierte OS und Chrome OS an.
